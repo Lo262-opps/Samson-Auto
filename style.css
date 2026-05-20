@@ -30,6 +30,12 @@ header{
   text-align:center;
 }
 
+.dark{
+  background:black;
+  color:white;
+}
+
+
 .card{
   background:white;
   padding:20px;
@@ -45,3 +51,4 @@ footer{
   text-align:center;
   padding:20px;
 }
+
